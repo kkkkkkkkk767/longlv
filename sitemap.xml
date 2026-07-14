@@ -7,37 +7,37 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://kkkkkkkkk767.github.io/longlv/about</loc>
+    <loc>https://kkkkkkkkk767.github.io/longlv/about.md</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kkkkkkkkk767.github.io/longlv/services</loc>
+    <loc>https://kkkkkkkkk767.github.io/longlv/services.md</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kkkkkkkkk767.github.io/longlv/contact</loc>
+    <loc>https://kkkkkkkkk767.github.io/longlv/contact.md</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://kkkkkkkkk767.github.io/longlv/airlines</loc>
-  </url>
-  <url>
-    <loc>https://kkkkkkkkk767.github.io/longlv/fare-classes</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://kkkkkkkkk767.github.io/longlv/airlines.md</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://kkkkkkkkk767.github.io/longlv/service-flow</loc>
+    <loc>https://kkkkkkkkk767.github.io/longlv/fare-classes.md</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kkkkkkkkk767.github.io/longlv/service-flow.md</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
