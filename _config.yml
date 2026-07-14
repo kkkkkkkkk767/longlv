@@ -1,0 +1,8 @@
+title: 黑龙江省龙旅海外国际航空服务有限公司
+description: 专业差旅服务商，机票、酒店、用车一站式服务
+baseurl: "/longlv"
+url: "https://kkkkkkkkk767.github.io"
+markdown: kramdown
+exclude:
+  - README.md
+  - .gitignore
